@@ -355,7 +355,7 @@ const contactInfo = {
   title: emoji("Contact Us ☎️"),
   subtitle:
     "Learn more about the project",
-  email_address: "{dg693,gjg34}(at)cam.ac.uk"
+  email_address: "{gjg34,dg693}(at)cam.ac.uk"
 };
 
 // Twitter Section
