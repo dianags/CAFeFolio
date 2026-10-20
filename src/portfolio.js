@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "CAFe project",
   title: "Hi all, this is the CAFe project!",
   subTitle: emoji(
     "Project description"
