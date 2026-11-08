@@ -49,15 +49,23 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What is CAFe",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "GROUNDING FEEDBACK QUALITY IN AI SYSTEMS THROUGH RIGOROUS, HUMAN-CENTERED EVALUATION",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji([
+      "🔬 ",
+      <strong key="1">Develop highly interactive</strong>,
+      " Front end / User Interfaces for your web and mobile applications"
+    ]),
+    emoji([
+      "⚡ ",
+      <strong key="2">Progressive Web Applications</strong>,
+      " in normal and SPA Stacks"
+    ]),
+    emoji([
+      "🚀 ",
+      <strong key="3">Integration of third party services</strong>,
+      " such as Firebase / AWS / Digital Ocean"
+    ])
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -73,7 +81,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab mug-saucer"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section --> Universities (involved in CAFe)
