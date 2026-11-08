@@ -142,10 +142,10 @@ const workExperiences = {
   experience: [
     {
       role: "Gabrielle Gaudeau",
-      company: "Cambridge",
+      company: "Co-Lead",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "",
-      desc: "PhD Student",
+      desc: "PhD Student @ Cambridge",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -153,45 +153,45 @@ const workExperiences = {
     },
     {
       role: "Diana Galván Sosa",
-      company: "Research Associate",
+      company: "Co-lead",
       companylogo: require("./assets/images/cambridge_handball_Pic.png"),
-      date: "May 2017 – May 2018",
-      desc: "Add info"
+      date: "",
+      desc: "Research Associate @ Cambridge"
     },
     {
       role: "Lily Goulder",
-      company: "Research Assistant",
+      company: "Contributing Researcher",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Add info"
+      date: "",
+      desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Aoife O'Driscoll",
-      company: "Research Assistant",
+      company: "Contributing Researcher",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Add info"
+      date: "",
+      desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Letícia Guedes Guimarães",
-      company: "PhD Student",
+      company: "Contributing Researcher",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Add info"
+      date: "",
+      desc: "PhD Student @ Exeter",
     },
     {
       role: "Aline Villavicencio",
-      company: "Professor",
+      company: "Advisor",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Add info"
+      date: "",
+      desc: "Professor @ Exeter"
     },
     {
       role: "Paula Buttery",
-      company: "Professor",
+      company: "Advisor",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Add info"
+      date: "",
+      desc: "Professor @ Cambridge"
     }
   ]
 };
