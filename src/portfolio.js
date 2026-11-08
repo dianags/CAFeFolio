@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "CAFe project",
-  title: "Hi all, this is the CAFe project!",
+  title: "Welcome to the CAFe project!",
   subTitle: emoji(
-    "Project description"
+    "CAFe (Criteria-based Assessment of Feedback quality) is a joint ongoing research project between the University of Cambridge and the University of Exeter investigating what makes -good- feedback. We are currently recruiting focus group participants!"
   ),
   resumeLink:
     "", // Set to empty to hide the button
