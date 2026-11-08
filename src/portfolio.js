@@ -53,18 +53,28 @@ const skillsSection = {
   skills: [
     emoji([
       "🔬 ",
-      <strong key="1">Develop highly interactive</strong>,
-      " Front end / User Interfaces for your web and mobile applications"
+      <strong key="1">Why take part?</strong>,
+      " This is a chance to reflect on your own feedback practice, compare approaches with teachers from other subjects and schools, and see how feedback research is being applied to AI in education. You will also receive a certificate of participation, which you can use as evidence of professional development."
     ]),
     emoji([
       "⚡ ",
-      <strong key="2">Progressive Web Applications</strong>,
-      " in normal and SPA Stacks"
+      <strong key="2">What is involved:</strong>,
+      " A single 3-hour online session built around three activities."
     ]),
     emoji([
       "🚀 ",
-      <strong key="3">Integration of third party services</strong>,
-      " such as Firebase / AWS / Digital Ocean"
+      <strong key="3">Compensation:</strong>,
+      " To thank you for your time and expertise, you will receive £45 (£15/hour) after the session. You can choose an Amazon voucher or a bank transfer."
+    ]),
+    emoji([
+      "🚀 ",
+      <strong key="3">When and Where:</strong>,
+      " Online, on Microsoft Teams, on [date(s) and time(s) TBC]. We ask your availabilities in the sign-up form and will do our best to accommodate you."
+    ]),
+    emoji([
+      "🚀 ",
+      <strong key="3">Who Can Take Part?:</strong>,
+      " Current or retired teachers working in the UK, of any subject and any age group."
     ])
   ],
 
@@ -84,28 +94,22 @@ https://fontawesome.com/icons?d=gallery */
   display: true // Set false to hide this section, defaults to true
 };
 
-// Education Section --> Universities (involved in CAFe)
+// Education Section --> Focus Group details
 
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "University of Cambridge",
+      schoolName: "Activity 1",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Department of Computer Science and Technology",
-      desc: "Team members",
-      descBullets: [
-        "Gabi",
-        "Diana"
-      ]
+      subHeader: "How do YOU do feedback",
+      desc: "You will either write feedback on real student essays or review comments that teachers wrote on real essays. A group discussion follows.",
     },
     {
-      schoolName: "University of Exeter",
+      schoolName: "Activity 2",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Post-it board",
+      desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
     }
   ]
 };
