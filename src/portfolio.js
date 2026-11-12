@@ -100,7 +100,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Activity 1",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/act1_focus-group.png"),
       subHeader: "How do YOU do feedback",
       desc: "You will either write feedback on real student essays or review comments that teachers wrote on real essays. A group discussion follows.",
     },
@@ -112,7 +112,7 @@ const educationInfo = {
     },
     {
       schoolName: "Activity 3",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/act3_clipboard.png"),
       subHeader: "Build-a-rubric",
       desc: "Your group will use these ideas to draft a rubric for evaluating feedback quality, with our guidance at each step.",
     }
