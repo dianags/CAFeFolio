@@ -108,13 +108,13 @@ const educationInfo = {
       schoolName: "Activity 2",
       logo: require("./assets/images/act2_noticeboard.png"),
       subHeader: "Post-it board",
-      desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
+      desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary.",
     },
     {
       schoolName: "Activity 3",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Build-a-rubric",
-      desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
+      desc: "Your group will use these ideas to draft a rubric for evaluating feedback quality, with our guidance at each step.",
     }
   ]
 };
