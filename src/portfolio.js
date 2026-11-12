@@ -305,7 +305,7 @@ const blogSection = {
       url: "https://aclanthology.org/2025.acl-long.1160/",
       title: "Rubrik’s Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset (Galvan-Sosa, Gaudeau, et al., 2025)",
       description:
-        "Best paper ever"
+        "Introduces the educationally inspired evaluation framework for AI explanation quality that CAFe adapts and extends to assess feedback."
     },
     {
       url: "https://journals.sagepub.com/doi/full/10.3102/003465430298487",
