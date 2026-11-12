@@ -25,9 +25,9 @@ const greeting = {
   subTitle: emoji([
     "CAFe (Criteria-based Assessment of Feedback quality) is a joint ongoing research project between the University of Cambridge and the University of Exeter investigating what makes ",
     <em key="1">good</em>,
-    " feedback."
-    <br key="1" />,
+    " feedback.",
     <br key="2" />,
+    <br key="3" />,
     "We are currently recruiting focus group participants!"
   ]),
   resumeLink:
