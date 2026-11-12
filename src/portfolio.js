@@ -311,7 +311,7 @@ const blogSection = {
       url: "https://journals.sagepub.com/doi/full/10.3102/003465430298487",
       title: "The Power of Feedback (Hattie and Timperley, 2007)",
       description:
-        "OK paper"
+        "Establishes the foundational educational model of what makes feedback effective for learning, serving as the core theoretical inspiration behind CAFe’s evaluation criteria"
     }
   ],
   display: true // Set false to hide this section, defaults to true
