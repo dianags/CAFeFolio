@@ -146,7 +146,7 @@ const workExperiences = {
     {
       role: "Gabrielle Gaudeau",
       company: "Co-Lead",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/gjg34_pic.jpeg"),
       date: "",
       desc: "PhD Student @ Cambridge",
       descBullets: [
@@ -164,35 +164,35 @@ const workExperiences = {
     {
       role: "Lily Goulder",
       company: "Contributing Researcher",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/lg684_pic.jpeg"),
       date: "",
       desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Aoife O'Driscoll",
       company: "Contributing Researcher",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/a0514_pic.jpeg"),
       date: "",
       desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Letícia Guedes Guimarães",
       company: "Contributing Researcher",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/leticia_pic.jpeg"),
       date: "",
       desc: "PhD Student @ Exeter",
     },
     {
       role: "Aline Villavicencio",
       company: "Advisor",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/a.villavicencio_pic.jpeg"),
       date: "",
       desc: "Professor @ Exeter"
     },
     {
       role: "Paula Buttery",
       company: "Advisor",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/pjb48_pic.jpeg"),
       date: "",
       desc: "Professor @ Cambridge"
     }
