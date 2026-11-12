@@ -109,6 +109,12 @@ const educationInfo = {
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Post-it board",
       desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
+    },
+    {
+      schoolName: "Activity 3",
+      logo: require("./assets/images/stanfordLogo.png"),
+      subHeader: "Build-a-rubric",
+      desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
     }
   ]
 };
@@ -311,7 +317,7 @@ const blogSection = {
       url: "https://journals.sagepub.com/doi/full/10.3102/003465430298487",
       title: "The Power of Feedback (Hattie and Timperley, 2007)",
       description:
-        "Establishes the foundational educational model of what makes feedback effective for learning, serving as the core theoretical inspiration behind CAFe’s evaluation criteria"
+        "Establishes the foundational model of effective feedback for learning, serving as the theoretical inspiration behind CAFe."
     }
   ],
   display: true // Set false to hide this section, defaults to true
