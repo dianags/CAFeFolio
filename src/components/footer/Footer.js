@@ -10,9 +10,6 @@ export default function Footer() {
     <Fade bottom duration={1000} distance="5px">
       <div className="footer-div">
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          {emoji("Made with ❤️ by DeveloperFolio Team")}
-        </p>
-        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           Theme by{" "}
           <a
             href="https://github.com/saadpasta/developerFolio"
@@ -20,6 +17,17 @@ export default function Footer() {
             rel="noreferrer"
           >
             developerFolio
+          </a>
+        </p>
+        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+          Icons in the Session Overview section created by Magnific -{" "}
+          <a
+            href="https://www.flaticon.com"
+            title="Flaticon"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Flaticon
           </a>
         </p>
       </div>
