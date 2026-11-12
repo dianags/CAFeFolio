@@ -22,9 +22,12 @@ const illustration = {
 const greeting = {
   username: "CAFe project",
   title: "Welcome to the CAFe project!",
-  subTitle: emoji(
-    "CAFe (Criteria-based Assessment of Feedback quality) is a joint ongoing research project between the University of Cambridge and the University of Exeter investigating what makes -good- feedback. We are currently recruiting focus group participants!"
-  ),
+  subTitle: emoji([
+    "CAFe (Criteria-based Assessment of Feedback quality) is a joint ongoing research project between the University of Cambridge and the University of Exeter investigating what makes -good- feedback.",
+    <br key="1" />,
+    <br key="2" />,
+    "We are currently recruiting focus group participants!"
+  ]),
   resumeLink:
     "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true

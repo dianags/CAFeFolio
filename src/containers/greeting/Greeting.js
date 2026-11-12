@@ -46,7 +46,11 @@ export default function Greeting() {
                     download="Resume.pdf"
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button 
+                    text="Sign-up"
+                    newTab={true}
+                    href="https://forms.gle/rx27KjBZVoyskrBg8"
+                    />
                   </a>
                 )}
               </div>
