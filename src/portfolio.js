@@ -148,11 +148,7 @@ const workExperiences = {
       company: "Co-Lead",
       companylogo: require("./assets/images/gjg34_pic.jpeg"),
       date: "",
-      desc: "PhD Student @ Cambridge",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "PhD Student @ Cambridge"
     },
     {
       role: "Diana Galván Sosa",
@@ -163,21 +159,21 @@ const workExperiences = {
     },
     {
       role: "Lily Goulder",
-      company: "Contributing Researcher",
+      company: "Researcher",
       companylogo: require("./assets/images/lg684_pic.jpeg"),
       date: "",
       desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Aoife O'Driscoll",
-      company: "Contributing Researcher",
+      company: "Researcher",
       companylogo: require("./assets/images/ao514_pic.jpeg"),
       date: "",
       desc: "Research Assistant @ Cambridge"
     },
     {
       role: "Letícia Guedes Guimarães",
-      company: "Contributing Researcher",
+      company: "Researcher",
       companylogo: require("./assets/images/leticia_pic.jpeg"),
       date: "",
       desc: "PhD Student @ Exeter",
