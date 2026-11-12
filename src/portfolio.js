@@ -171,7 +171,7 @@ const workExperiences = {
     {
       role: "Aoife O'Driscoll",
       company: "Contributing Researcher",
-      companylogo: require("./assets/images/a0514_pic.jpeg"),
+      companylogo: require("./assets/images/ao514_pic.jpeg"),
       date: "",
       desc: "Research Assistant @ Cambridge"
     },
