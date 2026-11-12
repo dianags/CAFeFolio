@@ -106,7 +106,7 @@ const educationInfo = {
     },
     {
       schoolName: "Activity 2",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/act2_noticeboard.png"),
       subHeader: "Post-it board",
       desc: "In small groups, you will sort your ideas from the first activity into the parts of feedback practice that are shared across teachers and the parts that vary",
     },
