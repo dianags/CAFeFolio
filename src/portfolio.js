@@ -55,7 +55,7 @@ const skillsSection = {
   subTitle: "GROUNDING FEEDBACK QUALITY IN AI SYSTEMS THROUGH RIGOROUS, HUMAN-CENTERED EVALUATION",
   skills: [
     emoji([
-      "🔬 ",
+      "💡 ",
       <strong key="1">Why take part?</strong>,
       " This is a chance to reflect on your own feedback practice, compare approaches with teachers from other subjects and schools, and see how feedback research is being applied to AI in education. You will also receive a certificate of participation, which you can use as evidence of professional development."
     ]),
@@ -65,17 +65,17 @@ const skillsSection = {
       " A single 3-hour online session built around three activities."
     ]),
     emoji([
-      "🚀 ",
+      "💰 ",
       <strong key="3">Compensation:</strong>,
       " To thank you for your time and expertise, you will receive £45 (£15/hour) after the session. You can choose an Amazon voucher or a bank transfer."
     ]),
     emoji([
-      "🚀 ",
+      "📅 ",
       <strong key="3">When and Where:</strong>,
       " Online, on Microsoft Teams, on [date(s) and time(s) TBC]. We ask your availabilities in the sign-up form and will do our best to accommodate you."
     ]),
     emoji([
-      "🚀 ",
+      "👥 ",
       <strong key="3">Who Can Take Part?:</strong>,
       " Current or retired teachers working in the UK, of any subject and any age group."
     ])
@@ -84,16 +84,7 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab mug-hot"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab mug-saucer"
-    }
-  ],
+  softwareSkills: [],
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -359,11 +350,11 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
-  title: emoji("Contact Us ☎️"),
+  title: emoji("Contact Us 💬"),
   subtitle:
     "Learn more about the project",
   email_address: "{gjg34,dg693}(at)cam.ac.uk"
