@@ -53,7 +53,12 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What is CAFe",
   subTitle: "GROUNDING FEEDBACK QUALITY IN AI SYSTEMS THROUGH RIGOROUS, HUMAN-CENTERED EVALUATION",
-  skills: [
+  skills: 
+    [emoji([
+      "We are inviting participants to take part in an upcoming focus group study to explore what makes ",
+      <em key="1">good</em>,
+      " feedback. We want to understand what is universal, and what changes depending on the student, the task or the context. Your insights will help us build a rubric for evaluating feedback quality, including feedback written by AI tools."
+    ]),
     emoji([
       "💡 ",
       <strong key="1">Why take part?</strong>,
