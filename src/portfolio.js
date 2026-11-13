@@ -28,7 +28,14 @@ const greeting = {
     " feedback.",
     <br key="2" />,
     <br key="3" />,
-    "We are currently recruiting focus group participants!"
+    "We are currently recruiting focus group participants!",
+    <br key="4" />,
+    <br key="5" />,
+    "🎓 Certified Educators: Currently teaching or retired, with a certification from the UK or abroad (no UK conversion required).",
+    <br key="6" />,
+    "📚 Any subject: Experience across any academic field or specialty.",
+    <br key="7" />,
+    "🏫 All Levels: Primary, secondary, or higher education experience."
   ]),
   resumeLink:
     "", // Set to empty to hide the button
