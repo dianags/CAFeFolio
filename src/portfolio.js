@@ -313,14 +313,14 @@ const blogSection = {
       url: "https://aclanthology.org/2025.acl-long.1160/",
       title: "Rubrik’s Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset (Galvan-Sosa, Gaudeau, et al., 2025)",
       description:
-        "Introduces the educationally inspired evaluation framework for AI explanation quality that CAFe adapts and extends to assess feedback."
+        "Introduces our educationally inspired evaluation framework for AI explanation quality that CAFe adapts and extends to assess feedback."
     },
     {
       url: "https://www.tandfonline.com/doi/full/10.1080/02602938.2015.1111294",
       title: "Assessment rubrics: towards clearer and more replicable design, research and practice (Dawson, 2015)",
       description:
         "Establishes a comprehensive taxonomy of rubric design elements that informs how we systematically structure our evaluation rubric."
-    }
+    },
     {
       url: "https://journals.sagepub.com/doi/full/10.3102/003465430298487",
       title: "The Power of Feedback (Hattie and Timperley, 2007)",
