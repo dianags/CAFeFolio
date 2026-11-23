@@ -94,12 +94,14 @@ const skillsSection = {
     ]),
     emoji([
       "📅 ",
-      <strong key="3">When and Where:</strong>,
-      " Online, on Microsoft Teams, on [date(s) and time(s) TBC]. We ask your availabilities in the sign-up form and will do our best to accommodate you."
+      <strong key="4">When and Where:</strong>,
+      " Online, on Microsoft Teams, on",
+       <strong key="5"> early December</strong>,
+      ". We ask your availabilities in the sign-up form and will do our best to accommodate you."
     ]),
     emoji([
       "👥 ",
-      <strong key="3">Who Can Take Part?:</strong>,
+      <strong key="6">Who Can Take Part?:</strong>,
       " Current or retired teachers working in the UK, of any subject and any age group."
     ])
   ],
