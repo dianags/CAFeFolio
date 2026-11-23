@@ -271,7 +271,7 @@ const achievementSection = {
       title: "Group 1",
       subtitle:
         "Sunday, December 6th (12pm - 3pm)",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/calendar_icon.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -284,7 +284,7 @@ const achievementSection = {
       title: "Group 2",
       subtitle:
         "Monday, December 7th (12pm - 3pm)",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/calendar_icon.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -296,7 +296,7 @@ const achievementSection = {
     {
       title: "Group 3",
       subtitle: "TBD",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/calendar_icon.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Sign-up", url: ""},
