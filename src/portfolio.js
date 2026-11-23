@@ -296,8 +296,8 @@ const achievementSection = {
     {
       title: "Group 3",
       subtitle: "TBD",
-      image: require("./assets/images/calendar_icon.png"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/question_icon.png"),
+      imageAlt: "Group 3",
       footerLink: [
         {name: "Sign-up", url: ""},
       ]
