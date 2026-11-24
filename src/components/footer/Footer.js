@@ -19,7 +19,7 @@ export default function Footer() {
           </a>
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Icons in the Session Overview section created by Magnific -{" "}
+          Icons in "Session Overview" and "Focus Groups" sections created by Magnific -{" "}
           <a
             href="https://www.flaticon.com"
             title="Flaticon"
