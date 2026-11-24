@@ -45,7 +45,7 @@ export default function Greeting() {
                   newTab={true}
                   href="https://forms.gle/rx27KjBZVoyskrBg8"
                 />
-                <Button text="See open groups" href="#achievements" />
+                <Button text="See open groups" href="#sessions" />
               </div>
             </div>
           </div>

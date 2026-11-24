@@ -48,7 +48,7 @@ function Header() {
           )}
           {viewExperience && (
             <li>
-              <a href="#experience">Team</a>
+              <a href="#team">Team</a>
             </li>
           )}
           {viewOpenSource && (
@@ -58,12 +58,12 @@ function Header() {
           )}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Focus Groups</a>
+              <a href="#sessions">Focus Groups</a>
             </li>
           )}
           {viewBlog && (
             <li>
-              <a href="#blogs">Research</a>
+              <a href="#research">Research</a>
             </li>
           )}
           {viewTalks && (
