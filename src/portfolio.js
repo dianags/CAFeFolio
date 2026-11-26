@@ -270,7 +270,7 @@ const achievementSection = {
     {
       title: "Group 1",
       subtitle:
-        "Sunday, December 6th (12pm - 3pm)",
+        "☀️ Sunday, December 6th (12pm - 3pm)",
       image: require("./assets/images/calendar_icon.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -283,7 +283,7 @@ const achievementSection = {
     {
       title: "Group 2",
       subtitle:
-        "Monday, December 7th (12pm - 3pm)",
+        "☀️ Monday, December 7th (12pm - 3pm)",
       image: require("./assets/images/calendar_icon.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -295,11 +295,20 @@ const achievementSection = {
     },
     {
       title: "Group 3",
-      subtitle: "TBD",
-      image: require("./assets/images/question_icon.png"),
+      subtitle: "🌅 Thursday, December 10th (9am - 12pm)",
+      image: require("./assets/images/calendar_icon.png"),
       imageAlt: "Group 3",
       footerLink: [
-        {name: "Sign-up", url: ""},
+        {name: "Sign-up", url: "https://forms.gle/rx27KjBZVoyskrBg8"},
+      ]
+    },
+    {
+      title: "Group 4",
+      subtitle: "TENTATIVE: 🌅 Wednesday, December 9th (9am - 12pm)",
+      image: require("./assets/images/question_icon.png"),
+      imageAlt: "Group 4",
+      footerLink: [
+        {name: "Sign-up", url: "https://forms.gle/rx27KjBZVoyskrBg8"},
       ]
     }
   ],
