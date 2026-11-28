@@ -198,7 +198,7 @@ const workExperiences = {
       company: "Researcher",
       companylogo: require("./assets/images/leticia_pic.jpeg"),
       date: "",
-      desc: "PhD Student @ Exeter",
+      desc: "PhD Student @ Universidade Federal de Minas Gerais · Former Visiting Student @ Exeter",
     },
     {
       role: "Aline Villavicencio",
